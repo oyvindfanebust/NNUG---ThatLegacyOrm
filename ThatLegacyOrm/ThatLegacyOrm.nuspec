@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ThatLegacyOrm</id>
+    <version>1.0</version>
+    <authors>oyvind</authors>
+    <owners>oyvind</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The lovely legacy ORM that we all love oh so much</description>
+    <tags>NHibernateWannabe WhyOhWhy</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="ThatLegacyOrm\ThatLegacyOrm.csproj" target="lib\net40" />
+  </files>
+</package>
